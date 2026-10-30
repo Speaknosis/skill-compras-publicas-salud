@@ -18,7 +18,7 @@ Nace de los materiales compartidos por el ecosistema **ECO-SD / CENS** (Jornada 
 
 ## Pendientes
 
-- Incorporar el *Código de ética y buenas prácticas sobre lobby y gestión de intereses* (https://www.leylobby.gob.cl/files/buenas_practicas_lobby.pdf) en `references/ley-lobby.md`.
+- Verificar contra el texto oficial los plazos de la Ley 20.730 y su Reglamento (`references/ley-lobby.md`, Parte B).
 - Sumar los documentos de las mesas de trabajo de ECO-SD cuando CENS los comparta.
 
 > No constituye asesoría legal. Verificar siempre en las fuentes oficiales.

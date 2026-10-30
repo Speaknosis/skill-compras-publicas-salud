@@ -14,7 +14,7 @@ Esta skill reúne en un solo lugar la normativa y las guías oficiales que neces
 | Archivo | Documento | Úsalo para |
 |---|---|---|
 | `marco-etico-cens.md` | Marco Ético de Relacionamiento para Ecosistemas de Innovación en Salud Digital, ECO-SD/CENS (ene-2026) | Principios, conflictos de interés, pilotos, privacidad, la matriz de acciones |
-| `ley-lobby.md` | Ley 20.730 del Lobby + guías oficiales (**pendiente:** Código de buenas prácticas) | Pedir reuniones, sujetos pasivos, qué no hacer |
+| `ley-lobby.md` | Código de ética y buenas prácticas sobre lobby y gestión de intereses (Comisión de Integridad, nov-2023) + Ley 20.730 del Lobby | Pedir reuniones, sujetos pasivos, las 12 buenas prácticas y un checklist |
 | `politica-cpi-ds523.md` | Política de Compra Pública de Innovación, Decreto exento N°523 Hacienda (30-dic-2024, DO 12-mar-2025; algunos documentos lo citan como "DS 53") | Definiciones legales, Contratos para la Innovación vs Diálogo Competitivo, art. 35 ter |
 | `orientaciones-cpi-compradores.md` | Orientaciones en CPI para compradores del Estado, ChileCompra (22-ago-2025) | Cómo parte una CPI en el organismo, RFI (formato y 17 preguntas), plazos |
 | `manual-contratos-innovacion.md` | Manual Comprador: Contratos para la Innovación, ChileCompra v1 (19-dic-2025) | Etapas y operación en Mercado Público, qué debe presentar el proveedor |
@@ -28,6 +28,8 @@ Lee solo las referencias que necesite la pregunta. Cita el documento y la págin
 
 1. **"Quiero reunirme con alguien de un hospital, servicio o ministerio."**
    → Si la persona es **sujeto pasivo** y el objetivo es influir en una decisión (incluida una compra), la reunión va **por Ley del Lobby** (`references/ley-lobby.md`, `templates/solicitud-audiencia-lobby.md`).
+   → Si el funcionario relevante **no es sujeto pasivo**, no lo busques por fuera: pide al organismo que lo incorpore como sujeto pasivo (Código de buenas prácticas, BP 4).
+   → Ojo con el equipo: quien trabaje o preste servicios a honorarios en esa institución, o sea familiar o amigo de la autoridad, no participa en la gestión (BP 2 y 5). En salud es frecuente que un médico asesor también trabaje en el hospital.
    → Si hay una **licitación o procedimiento de compra en curso** sobre esa materia, **no hay contacto directo** con quienes participan en la adjudicación (prohibición de contactos, art. 35 ter Ley 19.886). Las dudas se canalizan por el foro de Mercado Público. La única excepción es *dentro* de un Diálogo Competitivo de Innovación (`politica-cpi-ds523.md` §4.2).
 
 2. **"Salió una consulta al mercado / RFI que calza con lo que hacemos."**

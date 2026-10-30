@@ -20,8 +20,10 @@
 ---
 
 **Checklist antes de enviar**
-- [ ] ¿El destinatario es sujeto pasivo en esta institución? Si no, busca al sujeto pasivo correspondiente.
+- [ ] ¿El destinatario es sujeto pasivo en esta institución? Si no lo es, pide al organismo que lo **incorpore como sujeto pasivo** antes de reunirte (Código de buenas prácticas, BP 4).
+- [ ] ¿Algún asistente es familiar o amigo de la autoridad, o trabaja o presta servicios a honorarios en la institución? Si es así, no asiste (BP 2 y 5).
 - [ ] ¿Hay una licitación o compra en curso sobre esta materia? Si la hay, **no pidas audiencia con la comisión evaluadora** y usa el foro de Mercado Público.
 - [ ] ¿La materia es específica y honesta, sin "temas varios"?
-- [ ] ¿Se declararon todos los asistentes y los posibles conflictos de interés?
+- [ ] ¿Se declararon **todos** los asistentes y los posibles conflictos de interés? (BP 1)
+- [ ] En la reunión, tratar **solo** la materia declarada (BP 8). Revisar antes el código de ética de la institución (BP 9).
 - [ ] ¿No se ofrece nada (regalos, pilotos gratis condicionados, viajes)?
