@@ -159,12 +159,12 @@ Lo que el documento **no** trata: la igualdad de trato, la confidencialidad de l
 
 ---
 
-## 7. Qué significa para un proveedor o startup de salud (por ejemplo, Speaknosis)
+## 7. Qué significa para un proveedor o startup de salud
 
 > **Esta sección es interpretación**, no contenido del documento. Se apoya en lo citado arriba y debe contrastarse con la Ley 19.886, su Reglamento y las normas de probidad y lobby que correspondan.
 
 **Posicionamiento**
-- Una solución de documentación clínica con voz e IA puede vincularse con las Áreas Estratégicas de **transformación digital** (eficiencia) y **experiencia usuaria** (p. 7). Conviene expresar el valor en esos términos y en las variables de priorización: escalabilidad y replicabilidad entre establecimientos, desarrollo de startups y Pymes, y eficiencia del gasto (pp. 18-19).
+- Una solución de salud digital (por ejemplo, telemedicina, documentación clínica o gestión de listas de espera) puede vincularse con las Áreas Estratégicas de **transformación digital** (eficiencia) y **experiencia usuaria** (p. 7). Conviene expresar el valor en esos términos y en las variables de priorización: escalabilidad y replicabilidad entre establecimientos, desarrollo de startups y Pymes, y eficiencia del gasto (pp. 18-19).
 - Si su producto ya existe y es comparable a otros del mercado, la propia guía indica que **no corresponde CPI** (p. 11). La CPI sirve cuando hace falta I+D+i (por ejemplo, adaptar modelos a especialidades, idiomas o integraciones que no existen) o cuando las alternativas son tecnológicamente muy distintas.
 - Inscribirse en mercadopublico.cl y seguir los canales de CORFO, ANID y Laboratorio de Gobierno, porque por ellos se difunden los RFI de innovación (p. 11).
 

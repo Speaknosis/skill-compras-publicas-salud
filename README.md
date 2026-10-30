@@ -2,7 +2,7 @@
 
 Skill para Claude (Claude Code / Claude.ai) que orienta a startups y empresas de salud digital para relacionarse con el sector público chileno de forma ética y legal, y para vender por **Compras Públicas de Innovación (CPI)**.
 
-Nace de los materiales compartidos por el ecosistema **ECO-SD / CENS** (Jornada del 28-10-2026).
+**Nace de los materiales compartidos por el ecosistema ECO-SD / CENS (Jornada del 28-10-2026).**
 
 ## Contenido
 
